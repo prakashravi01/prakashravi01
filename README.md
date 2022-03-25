@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 
-- 🔭 I’m currently working in Cognizant Technology Solutions as Enterprise Developer Intern
+- 🔭 I’m currently interning at Cognizant Technology Solutions as an Enterprise Applications Developer Intern
 - 🌱 I’m currently learning Java  
 - 👯 I’m looking to collaborate on desktop applications
 - 💬 Ask me about core Java
